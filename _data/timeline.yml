@@ -1,17 +1,13 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Student, Télécom Saint-Étienne
+  from: 2024
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: I am currently studying computer science at Télécom Saint-Étienne. 
+               I am learning about algorithms, programming, and software engineering.
+               I also have the opportunity to learn about communication, project management, and teamwork.
+               In addition to my studies, I am also involved in various student associations, such as Inspire Junior-Entreprise.
+
+- title: Preparatory Class student, Lycée Vauban Brest
+  from: 2022
+  to: 2024
+  description: In the preparatory class, I studied mathematics, physics, and computer science.
+               I also prepared for the competitive exams for the French engineering schools.
