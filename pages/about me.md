@@ -8,9 +8,9 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Currently an IT student at [Télécom Saint-Étienne](https://www.telecom-st-etienne.fr/), I enjoy coding and making little projects !
+Currently an IT student at [Télécom Saint-Étienne](https://www.telecom-st-etienne.fr/), I enjoy coding and creating projects !
 I eager to learn always more and to help you with your projects.
-*Always seaking for internship or job propostitions, do not hesitate to contatc me !*
+*Always seaking for internship or job propostitions, do not hesitate to contact me !*
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
