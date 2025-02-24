@@ -1,3 +1,19 @@
 - name: Word, Excel, PowerPoint
   percentage: 95
   color: info
+
+- name: French
+  percentage: 100
+  color: danger
+
+- name: English
+  percentage: 90
+  color: success
+
+- name: Spanish
+  percentage: 80
+  color: warning
+
+- name: Chinese
+  percentage: 40
+  color: danger
