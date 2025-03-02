@@ -1,7 +1,7 @@
 ---
 name: Contamination simulation
 tools: [HTML, CSS, JS]
-image: Contamination.jpg
+image: https://www.santepubliquefrance.fr/var/site/storage/images/8/4/3/5/2755348-1-fre-FR/spf_dossier_covid_header.jpg
 description: A small project to learn JS, creating an epidemic simulation.
 ---
 
@@ -10,7 +10,7 @@ description: A small project to learn JS, creating an epidemic simulation.
 Contamination is a *little side project*, that I did to learn JS (with HTML). This project is an **epidemic simulation** to model the spread of a virus through a population.
 > *This is not a serious project and should not be used for real studies.*
 
-![preview](Contamination.jpg)
+![preview](/assets/images/Contamination.jpg)
 
 ## Features
 
