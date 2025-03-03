@@ -1,13 +1,13 @@
 - title: Student, Télécom Saint-Étienne
   from: 2024
   to: present
-  description: I am currently studying computer science at Télécom Saint-Étienne.  <br><br>
+  description: I am currently studying computer science at Télécom Saint-Étienne.  <br>
               I am learning about algorithms, programming, and software engineering.
-              I also have the opportunity to learn about communication, project management, and teamwork. <br><br>
-              In addition to my studies, I am also involved in various student associations, such as [Inspire Junior-Entreprise](https://www.inspire-telecom.com/)"
+              I also have the opportunity to learn about communication, project management, and teamwork. br>
+              In addition to my studies, I am also involved in various student associations, such as <a href="https://www.inspire-telecom.com/">Inspire Junior-Entreprise</a>.
 
 - title: Preparatory Class student, Lycée Vauban Brest
   from: 2022
   to: 2024
-  description: In the preparatory class, I studied mathematics, physics, and computer science. <br><br>
-              I also prepared for the competitive exams for the French engineering schools."
+  description: In the preparatory class, I studied mathematics, physics, and computer science.<br>
+              I also prepared for the competitive exams for the French engineering schools.
