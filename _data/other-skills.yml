@@ -15,5 +15,5 @@
   color: warning
 
 - name: Chinese
-  percentage: 40
+  percentage: 15
   color: danger
