@@ -10,5 +10,5 @@ description: A personal project I've used to learn simple web developpement
 This project allows you to create, check and delete an item in your list.
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/Arthurfert/Converter" text="See on Github" %}
+{% include elements/button.html link="https://github.com/Arthurfert/ToDoList" text="See on Github" %}
 </p>
